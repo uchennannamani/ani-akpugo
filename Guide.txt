@@ -1,0 +1,31 @@
+HOME PAGE:
+Explanation of the project, its aim and objectives. 
+	
+TABS:
+	AKPUGO:
+		HISTORY
+		ANIAKUGO
+		COMMMUNITES
+		KINDEREDS
+		
+	PROMINENT CHILDREN
+		Business
+		Academica
+		Politics
+		Industry
+		Tradional Rulers
+
+
+
+OBJECTIVES
+	- Encouraging your ones
+	- Connecting people and availing information for young ones.
+	
+	
+
+TASKS;
+	- Put placeholder for logo
+	- set up land page
+	- draft content for landing page
+	- set up interest registrtaion by indegines
+	- set up databse for taking these interests. 
